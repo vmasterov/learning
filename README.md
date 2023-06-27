@@ -1,79 +1,56 @@
-#############################################################################
-
-##############################      SUMMARY      ############################
-
-#############################################################################
-
-
-- [SCHEDULE](#SCHEDULE).
-- TECH INTERVIEW THEMES
-- TECH INTERVIEW TASKS
-- OOP
-- ARTICLES
-- PREVIOUS
-- FUTURE PLANS
-
-
-
-
+# SUMMARY
+- [SCHEDULE](#SCHEDULE)
+- [TECH INTERVIEW THEMES](#TECH-INTERVIEW-THEMES)
+- [TECH INTERVIEW TASKS](#TECH-INTERVIEW-TASKS)
+- [OOP](#OOP)
+- [ARTICLES](#ARTICLES)
+- [PREVIOUS](#PREVIOUS)
+- [FUTURE PLANS](#FUTURE_PLANS)
+---
 # SCHEDULE
-
 MONDAY
-
 - English: new words (08:00-08:30)
 - Practical task (08:40-09:40)
 - Personal project (09:50-17:00)
 - Theory (17:10-18:00)
-
 
 TUESDAY
-
 - English: new words (08:00-08:30)
 - English: Murphy (08:40-09:40)
 - Theory (09:50-10:50)
 - Personal project (11:00-17:00)
 - Practical task (17:10-18:00)
-
 
 WEDNESDAY
-
 - English: new words (08:00-08:30)
 - Practical task (08:40-09:40)
 - Personal project (09:50-17:00)
 - Theory (17:10-18:00)
 
-
 THURSDAY
-
 - English: new words (08:00-08:30)
 - English: Murphy (08:40-09:40)
 - Theory (09:50-10:50)
 - Personal project (11:00-17:00)
 - Practical task (17:10-18:00)
 
-
 FRIDAY
-
 - English: new words (08:00-08:30)
 - Practical task (08:40-09:40)
 - Personal project (09:50-17:00)
 - Theory (17:10-18:00)
 
-
 SATURDAY
-
 - English: Clean Architecture (1h)
 - Theory (1h)
 - Free schedule
-
 
 SUNDAY
-
 - English: Clean Architecture (1h)
 - Theory (1h)
 - Free schedule
 
----------------------------------------
+@-@-@
 
 THEORY
 
@@ -97,15 +74,8 @@ THEORY
 - HTTPS
 - How browsers work
 - Docker
-
-
-#############################################################################
-
-######################      TECH INTERVIEW THEMES      ######################
-
-#############################################################################
-
-
+---
+# TECH INTERVIEW THEMES
 - algorithms (JS)
 - webpack
     - https://webpack.js.org/guides/getting-started/
@@ -127,87 +97,79 @@ THEORY
 - git hooks
 - ci\cd piplines
 - npm docs (https://docs.npmjs.com/cli/v9/configuring-npm/package-json#bundledependencies)
-
-
-
-
-
-#############################################################################
-
-#######################      TECH INTERVIEW TASKS      ######################
-
-#############################################################################
-
+---
+# TECH INTERVIEW TASKS
 
 linked lists:
-+ https://leetcode.com/problems/merge-k-sorted-lists/
-https://leetcode.com/problems/linked-list-cycle/
-https://leetcode.com/problems/add-two-numbers/
-https://leetcode.com/problems/reverse-linked-list/
+
+- (+) https://leetcode.com/problems/merge-k-sorted-lists/
+- https://leetcode.com/problems/linked-list-cycle/
+- https://leetcode.com/problems/add-two-numbers/
+- https://leetcode.com/problems/reverse-linked-list/
 
 binary search:
-https://leetcode.com/problems/binary-search/
-https://leetcode.com/problems/guess-number-higher-or-lower/
-https://leetcode.com/problems/search-a-2d-matrix/
-https://leetcode.com/problems/search-in-rotated-sorted-array/
-https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+
+- https://leetcode.com/problems/binary-search/
+- https://leetcode.com/problems/guess-number-higher-or-lower/
+- https://leetcode.com/problems/search-a-2d-matrix/
+- https://leetcode.com/problems/search-in-rotated-sorted-array/
+- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+- https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 
 hash table:
-https://leetcode.com/problems/single-number/ - решить за O(1) по памяти
-https://leetcode.com/problems/two-sum/
-https://leetcode.com/problems/4sum/
-https://leetcode.com/problems/group-anagrams/
-https://leetcode.com/problems/valid-anagram/
-https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
+- https://leetcode.com/problems/single-number/ - решить за O(1) по памяти
+- https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/4sum/
+- https://leetcode.com/problems/group-anagrams/
+- https://leetcode.com/problems/valid-anagram/
+- https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
 queue/stack:
-https://leetcode.com/problems/valid-parentheses/
+
+- https://leetcode.com/problems/valid-parentheses/
 
 dfs/bfs:
-https://leetcode.com/problems/number-of-islands/
-https://leetcode.com/problems/remove-invalid-parentheses/
+
+- https://leetcode.com/problems/number-of-islands/
+- https://leetcode.com/problems/remove-invalid-parentheses/
 
 sort:
-https://leetcode.com/problems/merge-intervals/
+
+- https://leetcode.com/problems/merge-intervals/
 
 heap/hash:
-https://leetcode.com/problems/top-k-frequent-words/
-https://leetcode.com/problems/top-k-frequent-elements/
+
+- https://leetcode.com/problems/top-k-frequent-words/
+- https://leetcode.com/problems/top-k-frequent-elements/
 
 two pointers:
-https://leetcode.com/problems/container-with-most-water/
-https://leetcode.com/problems/partition-labels/
+
+- https://leetcode.com/problems/container-with-most-water/
+- https://leetcode.com/problems/partition-labels/
 
 sliding window:
-https://leetcode.com/problems/sliding-window-median/
-https://leetcode.com/problems/sliding-window-maximum/
-https://leetcode.com/problems/longest-repeating-character-replacement/
+
+- https://leetcode.com/problems/sliding-window-median/
+- https://leetcode.com/problems/sliding-window-maximum/
+- https://leetcode.com/problems/longest-repeating-character-replacement/
 
 tree:
-https://leetcode.com/problems/same-tree/
-https://leetcode.com/problems/symmetric-tree/
-https://leetcode.com/problems/balanced-binary-tree/
-https://leetcode.com/problems/path-sum-ii/
+
+- https://leetcode.com/problems/same-tree/
+- https://leetcode.com/problems/symmetric-tree/
+- https://leetcode.com/problems/balanced-binary-tree/
+- https://leetcode.com/problems/path-sum-ii/
 
 greedy problems:
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 
-
-
-
-#############################################################################
-
-################################      OOP      ##############################
-
-#############################################################################
-
-
-
+---
+# OOP
 Паради́гма программи́рования — это совокупность идей и понятий, определяющих стиль написания компьютерных программ
 
 
@@ -282,33 +244,16 @@ https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%
 GoF паттерны
 https://ru.wikipedia.org/wiki/Design_Patterns
 
-
-
-
-#############################################################################
-
-#############################      ARTICLES      ############################
-
-#############################################################################
-
-
+---
+# ARTICLES
 - What is the Jamstack? (https://snipcart.com/blog/jamstack)
 - Differences between type aliases and interfaces (https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces)
 - Blockchain Tutorial Videos (https://www.youtube.com/playlist?list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)
 - UML class diagram (https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 - BEM (https://www.youtube.com/watch?v=HihYQVuH64U)
 - How to read the ECMA spec (https://v8.dev/blog/tags/understanding-ecmascript)
-
-
-
-
-#############################################################################
-
-#############################      PREVIOUS      ############################
-
-#############################################################################
-
-
+---
+# PREVIOUS
 - Vue lazy import
   https://vueschool.io/articles/vuejs-tutorials/lazy-loading-and-code-splitting-in-vue-js/
   https://blog.logrocket.com/vue-lazy-loading-components-code-splitting/
@@ -371,17 +316,8 @@ https://v3.ru.vuejs.org/ru/guide/composition-api-lifecycle-hooks.html
 - Prettier, ESLint, Husky, Lint-Staged и EditorConfig
   https://habr.com/ru/company/ruvds/blog/428173/
 
-
-
-
-
-#############################################################################
-
-###########################      FUTURE PLANS      ##########################
-
-#############################################################################
-
-
+---
+# FUTURE PLANS
 - Изучить.
     - Архитектура frontend-приложения.
     - Git API.
