@@ -104,7 +104,7 @@ linked lists:
 
 - (+) https://leetcode.com/problems/merge-k-sorted-lists/
 - (+) https://leetcode.com/problems/linked-list-cycle/
-- https://leetcode.com/problems/add-two-numbers/
+- (+) https://leetcode.com/problems/add-two-numbers/
 - https://leetcode.com/problems/reverse-linked-list/
 
 binary search:
