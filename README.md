@@ -10,22 +10,22 @@
 # SCHEDULE
 MONDAY
 - English: new words (08:00-08:30)
-- Practical task (08:40-09:40)
-- Personal project (09:50-17:00)
-- Theory (17:10-18:00)
+- Theory (08:40-10:40)
+- Practical task (10:50-11:50)
+- Personal project (12:00-18:00)
 
 TUESDAY
 - English: new words (08:00-08:30)
 - English: Murphy (08:40-09:40)
 - Theory (09:50-10:50)
-- Personal project (11:00-17:00)
-- Practical task (17:10-18:00)
+- Practical task (11:00-12:00)
+- Personal project (12:10-17:00)
 
 WEDNESDAY
 - English: new words (08:00-08:30)
-- Practical task (08:40-09:40)
-- Personal project (09:50-17:00)
-- Theory (17:10-18:00)
+- Theory (08:40-10:40)
+- Practical task (10:50-11:50)
+- Personal project (12:00-18:00)
 
 THURSDAY
 - English: new words (08:00-08:30)
@@ -36,9 +36,9 @@ THURSDAY
 
 FRIDAY
 - English: new words (08:00-08:30)
-- Practical task (08:40-09:40)
-- Personal project (09:50-17:00)
-- Theory (17:10-18:00)
+- Theory (08:40-10:40)
+- Practical task (10:50-11:50)
+- Personal project (12:00-18:00)
 
 SATURDAY
 - English: Clean Architecture (1h)
