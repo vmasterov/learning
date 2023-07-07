@@ -252,6 +252,7 @@ https://ru.wikipedia.org/wiki/Design_Patterns
 - UML class diagram (https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 - BEM (https://www.youtube.com/watch?v=HihYQVuH64U)
 - How to read the ECMA spec (https://v8.dev/blog/tags/understanding-ecmascript)
+- Algorithms (https://makinhs.medium.com/a-beginner-introduction-to-algorithms-and-complexity-with-javascript-typescript-2c8fd2384a1f)
 ---
 # PREVIOUS
 - Vue lazy import
