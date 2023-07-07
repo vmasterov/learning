@@ -109,7 +109,7 @@ linked lists:
 
 binary search:
 
-- https://leetcode.com/problems/binary-search/
+- (+) https://leetcode.com/problems/binary-search/
 - https://leetcode.com/problems/guess-number-higher-or-lower/
 - https://leetcode.com/problems/search-a-2d-matrix/
 - https://leetcode.com/problems/search-in-rotated-sorted-array/
