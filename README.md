@@ -253,6 +253,8 @@ https://ru.wikipedia.org/wiki/Design_Patterns
 - BEM (https://www.youtube.com/watch?v=HihYQVuH64U)
 - How to read the ECMA spec (https://v8.dev/blog/tags/understanding-ecmascript)
 - Algorithms (https://makinhs.medium.com/a-beginner-introduction-to-algorithms-and-complexity-with-javascript-typescript-2c8fd2384a1f)
+- Data structures (https://www.geeksforgeeks.org/data-structures/?ref=lbp)
+- Fundamentals of algorithms ( https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 ---
 # PREVIOUS
 - Vue lazy import
@@ -320,12 +322,11 @@ https://v3.ru.vuejs.org/ru/guide/composition-api-lifecycle-hooks.html
 ---
 # FUTURE PLANS
 - Изучить.
-    - Архитектура frontend-приложения.
-    - Git API.
-    - JSON API.
-    - DDD, DDD для frontend.
+    - Data structures.
+    - Algorithms.
     - C++/C#.
     - Работа операционны систем.
     - Работа сетей.
+    - JSON API.
     - Docker, Kubernates
     - Пройти курс по БД.
