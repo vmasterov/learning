@@ -324,6 +324,7 @@ https://v3.ru.vuejs.org/ru/guide/composition-api-lifecycle-hooks.html
 - Изучить.
     - Data structures.
     - Algorithms.
+    - Software design patterns
     - C++/C#.
     - Работа операционны систем.
     - Работа сетей.
